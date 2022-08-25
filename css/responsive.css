@@ -1,0 +1,518 @@
+
+
+@media (max-width:1400px) {
+    .container {
+        max-width: 1140px;
+    }
+    .navbar-nav .nav-item .nav-link {
+        font-size: 16px;
+    }
+    .btn-contact {
+        font-size: 16px;
+        padding: 12px 20px;
+    }
+    header .text-box h1 {
+        font-size: 44px;
+        line-height: 72px;
+    }
+    .title {
+        font-size: 16px;
+    }
+    .btn-learn {
+        font-size: 20px;
+        padding: 13px 48px;
+    }
+    .paragraph-size {
+        font-size: 13px;
+    }
+    .heading-size {
+        font-size: 36px;
+    }
+    .heading {
+        font-size: 48px;
+    }
+    .let-space {
+        font-size: 42px;
+    }
+    .paragraph-size2 {
+        font-size: 26px;
+        line-height: 40px;
+    }
+    .games-sec .box .text-box h2 {
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .games-sec .box p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .btn-detail {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .team-card h2 {
+        font-size: 17px;
+    }
+    .team-card h6 {
+        font-size: 14px;
+    }
+    .contact-sec .contact-form label {
+        font-size: 14px;
+    }
+    .footer .fotter-text h1 {
+        font-size: 20px;
+    }
+    .footer .fotter-text .footer-text {
+        font-size: 13px;
+    }
+    .about-heading {
+        font-size: 52px;
+        line-height: 120%;
+    }
+    .about-paragraph {
+        font-size: 22px;
+    }
+    .about-heading2 {
+        font-size: 44px;
+    }
+    .digital-sec .card-box h1 {
+        font-size: 30px;
+    }
+    .solution-sec .card-box h1 {
+        font-size: 30px;
+    }
+}
+
+@media (max-width:1300px) {
+    br {
+        display: none;
+    }
+}
+
+@media (max-width:1199px) {
+    .navbar-nav .nav-item .nav-link {
+        font-size: 16px;
+        padding-left: 16px;
+    }
+
+    .btn-detail {
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 24px;
+    }
+
+    .play-sec .paragraph-size {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .size-1 {
+        font-size: 15px;
+    }
+
+    .about-paragraph {
+        font-size: 20px;
+    }
+
+    .about-heading {
+        font-size: 46px;
+    }
+
+    .header-img .text-box h1 {
+        font-size: 41px;
+        line-height: 65px;
+    }
+
+    .story-sec .text-box {
+        padding-top: 189px;
+    }
+
+    .btn-contact {
+        font-size: 18px;
+        padding: 14px 20px;
+    }
+
+    .started-box {
+        background: linear-gradient(93.94deg, #080119 0%, #000061 100%);
+        border-radius: 24px;
+        padding: 88px 150px 67px 150px;
+    }
+
+    .btn-start {
+        font-size: 16px;
+        line-height: 30px;
+        padding: 20px 28px;
+    }
+
+    .heading {
+        font-size: 44px;
+    }
+
+    .paragraph-size2 {
+        font-size: 26px;
+    }
+
+    .team-card h2 {
+        font-weight: 400;
+        font-size: 20px;
+    }
+
+    .heading-size {
+        font-size: 33px;
+    }
+
+    .footer .fotter-text .footer-text {
+        font-size: 14px;
+    }
+
+    .btn-message {
+        padding: 16px 50px 16px 50px;
+    }
+}
+
+@media (max-width:991px) {
+    header .card-box {
+        margin-top: 128px;
+    }
+
+    .btn-detail {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .story-sec .text-box {
+        padding-top: 89px;
+    }
+
+    .contact-form {
+        padding: 46px 35px 55px 35px;
+    }
+
+    .card-box {
+        margin-top: 20px;
+    }
+
+    .play-sec .paragraph-size {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .size-1 {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    #games {
+        margin-top: 72px;
+    }
+
+    #games .box p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .digital-sec {
+        padding-bottom: 26px;
+        height: auto;
+        padding-top: 90px;
+    }
+
+    .header-img {
+        background-size: auto 100%;
+        padding-top: 51px;
+    }
+
+    .traning-sec {
+        background-size: auto 100%;
+
+        margin-top: 55px;
+    }
+
+    .started-box {
+        padding: 91px 90px 67px 90px;
+    }
+
+    .started-box .line {
+        background: #FF9737;
+        width: 53px;
+        height: 5px;
+        margin: auto;
+    }
+
+    .tell-sec {
+        margin-top: 72px;
+    }
+
+    .games-sec {
+        margin-top: 96px;
+    }
+
+    .card-sec {
+        margin-top: 32px;
+        margin-bottom: 196px;
+    }
+
+    #responsive {
+        display: block;
+    }
+
+    .m-t {
+        margin-top: 96px;
+    }
+
+    .btn-contact {
+        padding: 14px 24px;
+        margin-left: 24px;
+        margin-right: 24px;
+        margin-top: 32px;
+    }
+
+    .line2 {
+        background: #FF9737;
+        width: 24px;
+        height: 5px;
+        margin: auto;
+    }
+}
+
+@media (max-width:767px) {
+    .text-style {
+
+        background: linear-gradient(180deg, #DCD7E4 14.58%, #000002 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        text-fill-color: transparent;
+    }
+
+    .title {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .about-img {
+        height: 361px;
+        padding-top: 32px;
+    }
+
+    #card .games-space .box .p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .btn-view {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 16px 32px;
+    }
+
+    .card-space {
+        margin-top: 48px;
+    }
+
+    #space-sec {
+        margin-top: 80px;
+    }
+
+    .solution-sec .card-box h1 {
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .card-sec {
+        margin-top: 32px;
+        margin-bottom: 0px;
+    }
+
+    .digital-sec {
+        padding-top: 72px;
+        background-image: url(../images/about-img.png);
+    }
+
+    .tel-sec .let-space {
+        font-size: 40px;
+        line-height: 120%;
+    }
+
+    .about-paragraph {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .about-heading {
+        font-size: 40px;
+        line-height: 120%;
+    }
+
+    .about-img h2 {
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .about-img h1 {
+        font-size: 40px;
+        line-height: 60px;
+    }
+
+    .about-text {
+        padding-top: 60px;
+    }
+
+    .games-sec {
+        margin-top: 139px;
+    }
+
+    .games-sec .box .text-box h2 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .footer {
+        background: #090912;
+        padding: 48px 0px 54px 0px;
+        margin-top: 80px;
+    }
+
+    .copy-right {
+        padding: 36px 0px 40px 0px;
+    }
+
+    .team-card h2 {
+        line-height: 36px;
+        font-size: 24px;
+    }
+
+    .footer .fotter-text h1 {
+        font-size: 20px;
+    }
+
+    .contact-sec {
+        padding-top: 129px;
+    }
+
+    .games-sec .box p {
+        font-size: 20px;
+        line-height: 21px;
+    }
+
+    .team-sec {
+        margin-top: 104px;
+    }
+
+    .games-space {
+        padding-top: 0px;
+    }
+
+    #space-sec .games-space {
+        margin-top: 32px;
+    }
+
+    .btn-start {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 16 32px;
+    }
+
+    .header-img {
+        background-image: url(../images/responsive.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        padding-top: 41px;
+        height: 1063px;
+    }
+
+    .meeting-sec {
+        margin-top: 64px;
+    }
+
+    .play-sec {
+        margin-top: 48px;
+    }
+
+    .about-img .about-text h3 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    #space-sec .games-space .box p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .header-img .text-box h1 {
+        padding-top: 223px;
+        font-size: 32px;
+        line-height: 48px;
+    }
+
+    .start-sec {
+        margin-top: 24px;
+    }
+
+    .started-box {
+        background: linear-gradient(93.94deg, #080119 0%, #000061 100%);
+        border-radius: 24px;
+        padding: 64px 24px;
+    }
+
+    .traning-sec {
+        background-image: url(../images/responsive2.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        padding: 0px 0px 0px 0px;
+        height: 669px;
+        margin-top: 55px;
+    }
+
+    .story-sec .text-box {
+        padding-top: 32px;
+    }
+
+    .heading-size {
+        font-size: 32px;
+        line-height: 120%;
+    }
+
+    .btn-learn {
+        background: radial-gradient(102.82% 174.13% at 0% 0%, #080119 0%, #F92363 77.78%, #F92363 92.71%);
+        border-radius: 8px;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 30px;
+        padding: 16px 48px;
+    }
+
+    .heading {
+        font-size: 30px;
+        line-height: 45px;
+    }
+
+    header .card-box {
+        margin-top: 24px;
+    }
+
+    .let-space {
+        font-size: 40px;
+        line-height: 120%;
+        padding-top: 32px;
+    }
+
+    .paragraph-size {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .paragraph-size2 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+}
+
+@media (max-width:510px) {}
+
+
+
+
+@media (max-width:374px) {}
